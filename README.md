@@ -1,16 +1,21 @@
-# portfolio
+# Portfolio
 
-A new Flutter project.
+This is my personal portfolio website, showcasing my projects, skills, and experience. The site features both light and dark modes for an optimal viewing experience.
 
-## Getting Started
+**🌐 [View Live Website](https://jayp-devfolio.web.app)**
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Clean, responsive design
+- Light and Dark mode support
+- Project showcase
+- Contact information
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td>Light Mode<br/><img src="https://drive.google.com/uc?export=view&id=1A3QQCv6kyVKe41Iqu40rhgOx-Lhoc_rf" alt="Light Mode" width="350"/></td>
+    <td>Dark Mode<br/><img src="https://drive.google.com/uc?export=view&id=1fQturOiMBy2w392Sh8xe1YB3lyzSA1Fd" alt="Dark Mode" width="350"/></td>
+  </tr>
+</table>
